@@ -16,13 +16,6 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    //1 Room Class
-
-    //2 DAO interface
-
-    //3 Model (Entity)  class
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
